@@ -239,6 +239,15 @@ img {
   color: var(--first-color);
 }
 
+.nav__theme {
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+  font-size: 1.25rem;
+  color: var(--title-color);
+  cursor: pointer;
+}
+
 /* Show menu */
 
 /* Add shadow header */
