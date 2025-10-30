@@ -3,6 +3,8 @@ const showMenu = (navId, toggleId) => {
 
 }
 
+showMenu('nav-menu', 'nav-toggle')
+
 /*=============== REMOVE MENU MOBILE ===============*/
 
 
