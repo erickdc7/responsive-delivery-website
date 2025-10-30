@@ -196,6 +196,14 @@ img {
   color: var(--first-color);
 }
 
+.nav__toggle {
+  display: flex;
+  font-size: 1.5rem;
+  color: var(--title-color);
+  cursor: pointer;
+  transition: transform 0.4s;
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */
