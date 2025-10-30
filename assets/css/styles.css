@@ -191,6 +191,11 @@ img {
   transition: color 0.4s;
 }
 
+.nav__logo span {
+  font-weight: var(--font-bold);
+  color: var(--first-color);
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */
