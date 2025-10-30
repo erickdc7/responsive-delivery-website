@@ -1,5 +1,7 @@
 /*=============== SHOW MENU ===============*/
+const showMenu = (navId, toggleId) => {
 
+}
 
 /*=============== REMOVE MENU MOBILE ===============*/
 
@@ -10,7 +12,7 @@
 /*=============== SWIPER REVIEWS ===============*/
 
 
-/*=============== SHOW SCROLL UP ===============*/ 
+/*=============== SHOW SCROLL UP ===============*/
 
 
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
