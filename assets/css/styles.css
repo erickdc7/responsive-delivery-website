@@ -205,6 +205,22 @@ img {
 }
 
 /* Navigation for mobile devices */
+@media screen and (max-width: 1150px) {
+  .nav__menu {
+    position: fixed;
+    top: 5rem;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 75%;
+    box-shadow: var(--shadow-big);
+    background-color: var(--body-color);
+    padding: 3.5rem;
+    border-radius: 3rem;
+    border: 3px solid var(--first-color);
+    transition: left 0.4s, background-color 0.4s, box-shadow 0.4s;
+  }
+}
 
 /* Show menu */
 
