@@ -179,6 +179,12 @@ img {
   align-items: center;
 }
 
+.nav__logo {
+  display: flex;
+  align-items: center;
+  column-gap: 0.25rem;
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */
