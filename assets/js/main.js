@@ -11,6 +11,7 @@ const showMenu = (navId, toggleId) => {
 showMenu('nav-menu', 'nav-toggle')
 
 /*=============== REMOVE MENU MOBILE ===============*/
+const navLink = document.querySelectorAll('.nav__link')
 
 
 /*=============== ADD SHADOW HEADER ===============*/
