@@ -252,6 +252,11 @@ img {
 .show-menu {
   left: 0;
 }
+
+.show-menu + .nav__toggle {
+  transform: rotate(90deg);
+}
+
 /* Add shadow header */
 
 /* Active link */
