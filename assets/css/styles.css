@@ -249,7 +249,9 @@ img {
 }
 
 /* Show menu */
-
+.show-menu {
+  left: 0;
+}
 /* Add shadow header */
 
 /* Active link */
