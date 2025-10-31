@@ -14,7 +14,7 @@ showMenu('nav-menu', 'nav-toggle')
 const navLink = document.querySelectorAll('.nav__link')
 
 const linkAction = () =>{
-   
+    const navMenu = document.getElementById('nav-menu')
 }
 
 /*=============== ADD SHADOW HEADER ===============*/
