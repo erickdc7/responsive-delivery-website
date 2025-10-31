@@ -324,6 +324,13 @@ img {
     position: initial;
     font-size: 1.5rem;
   }
+
+  .nav__menu {
+    width: initial;
+    display: flex;
+    column-gap: 4rem;
+    align-items: center;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
