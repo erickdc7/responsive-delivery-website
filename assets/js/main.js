@@ -1,6 +1,7 @@
 /*=============== SHOW MENU ===============*/
 const showMenu = (navId, toggleId) => {
-    const nav = document.getElementById(navId)
+    const nav = document.getElementById(navId),
+        toggle = document.getElementById(toggleId)
 }
 
 showMenu('nav-menu', 'nav-toggle')
