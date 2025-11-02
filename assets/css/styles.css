@@ -282,6 +282,10 @@ img {
   color: var(--first-color);
 }
 
+.home__description {
+  margin-bottom: 2rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== SERVICE ===============*/
