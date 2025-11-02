@@ -331,6 +331,20 @@ img {
   filter: var(--shadow-img-big);
 }
 
+.home__phone {
+  position: absolute;
+  top: 9.5rem;
+  left: -1rem;
+  background-color: var(--container-color);
+  box-shadow: var(--shadow-small);
+  padding: 0.5rem;
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+  column-gap: 0.5rem;
+  transition: background-color 0.4s;
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;
