@@ -456,6 +456,11 @@ img {
   .nav__menu {
     width: 50%;
   }
+
+  .home__container {
+    grid-template-columns: 380px;
+    justify-content: center;
+  }
 }
 
 /* For medium devices */
