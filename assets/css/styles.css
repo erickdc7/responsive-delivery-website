@@ -345,6 +345,17 @@ img {
   transition: background-color 0.4s;
 }
 
+.home__icon {
+  width: 36px;
+  height: 36px;
+  background-color: var(--first-color);
+  border-radius: 0.75rem;
+  display: grid;
+  place-items: center;
+  color: var(--white-color);
+  font-size: 1.25rem;
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;
