@@ -506,6 +506,11 @@ img {
     column-gap: 5rem;
     padding-block: 4rem;
   }
+
+  .home__data {
+    text-align: initial;
+    row-gap: 5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
