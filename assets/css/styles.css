@@ -311,6 +311,16 @@ img {
 }
 
 /*=============== BUTTON ===============*/
+.button {
+  display: inline-flex;
+  background-color: var(--first-color);
+  color: var(--white-color);
+  font-weight: var(--font-semi-bold);
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 8px 16px var(--shadow-first-color);
+  transition: background-color 0.4s, color 0.4s;
+}
 
 /*=============== SERVICE ===============*/
 
