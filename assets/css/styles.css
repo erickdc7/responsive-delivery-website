@@ -267,6 +267,12 @@ img {
   row-gap: 3rem;
 }
 
+.home__data {
+  text-align: center;
+  display: grid;
+  row-gap: 3rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== SERVICE ===============*/
