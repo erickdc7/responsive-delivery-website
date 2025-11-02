@@ -362,6 +362,12 @@ img {
   color: var(--title-color);
 }
 
+.home__number span {
+  display: block;
+  font-weight: var(--font-semi-bold);
+  margin-top: 0.25rem;
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;
