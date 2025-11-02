@@ -390,6 +390,13 @@ img {
   left: 1rem;
 }
 
+.home__comment::after {
+  content: close-quote;
+  position: absolute;
+  right: 1rem;
+  bottom: 0;
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;
