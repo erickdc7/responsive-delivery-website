@@ -397,6 +397,13 @@ img {
   bottom: 0;
 }
 
+.home__comment::before,
+.home__comment::after {
+  font-size: 2rem;
+  font-weight: var(--font-semi-bold);
+  color: var(--first-color);
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;
