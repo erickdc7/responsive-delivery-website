@@ -446,6 +446,10 @@ img {
   .container {
     margin-inline: 1rem;
   }
+
+  .home__image {
+    width: 100%;
+  }
 }
 
 @media screen and (min-width: 540px) {
