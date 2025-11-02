@@ -356,6 +356,12 @@ img {
   font-size: 1.25rem;
 }
 
+.home__number {
+  font-size: var(--small-font-size);
+  font-style: normal;
+  color: var(--title-color);
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;
