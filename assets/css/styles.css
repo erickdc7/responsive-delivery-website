@@ -383,6 +383,13 @@ img {
   transition: background-color 0.4s;
 }
 
+.home__comment::before {
+  content: open-quote;
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;
