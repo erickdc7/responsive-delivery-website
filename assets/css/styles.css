@@ -286,6 +286,12 @@ img {
   margin-bottom: 2rem;
 }
 
+.home__social {
+  display: flex;
+  justify-content: center;
+  column-gap: 0.75rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== SERVICE ===============*/
