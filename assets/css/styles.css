@@ -322,6 +322,10 @@ img {
   transition: background-color 0.4s, color 0.4s;
 }
 
+.button:hover {
+  background-color: var(--first-color-alt);
+}
+
 /*=============== SERVICE ===============*/
 
 /*=============== MENU ===============*/
