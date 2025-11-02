@@ -499,6 +499,13 @@ img {
     column-gap: 4rem;
     align-items: center;
   }
+
+  .home__container {
+    grid-template-columns: 500px 520px;
+    align-items: center;
+    column-gap: 5rem;
+    padding-block: 4rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
