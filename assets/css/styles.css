@@ -368,6 +368,21 @@ img {
   margin-top: 0.25rem;
 }
 
+.home__comment {
+  position: absolute;
+  right: 0;
+  bottom: -1.5rem;
+  width: 250px;
+  background-color: var(--container-color);
+  box-shadow: var(--shadow-small);
+  border-radius: 1.5rem;
+  padding: 1.5rem 2.5rem;
+  text-align: center;
+  font-size: var(--small-font-size);
+  color: var(--title-color);
+  transition: background-color 0.4s;
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;
