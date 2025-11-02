@@ -310,6 +310,16 @@ img {
   box-shadow: 0 4px 8px var(--shadow-first-color);
 }
 
+.home__image {
+  position: relative;
+  width: 320px;
+  height: 320px;
+  background: var(--gradient-color);
+  border-radius: 6rem;
+  justify-self: center;
+  margin-top: 3rem;
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;
