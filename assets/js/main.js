@@ -22,7 +22,10 @@ const linkAction = () => {
 navLink.forEach(n => n.addEventListener('click', linkAction))
 
 /*=============== ADD SHADOW HEADER ===============*/
-
+const scrollHeader = () => {  
+     
+}
+ 
 
 /*=============== SWIPER REVIEWS ===============*/
 
