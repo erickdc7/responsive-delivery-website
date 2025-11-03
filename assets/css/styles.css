@@ -534,6 +534,13 @@ img {
   .home__img {
     width: 380px;
   }
+
+  .home__phone {
+    top: 15rem;
+    left: -4rem;
+    padding: 0.75rem;
+    border-radius: 1.25rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
