@@ -524,6 +524,12 @@ img {
   .home__social {
     justify-content: initial;
   }
+
+  .home__image {
+    width: 520px;
+    height: 520px;
+    border-radius: 11rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
