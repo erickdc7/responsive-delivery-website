@@ -22,7 +22,7 @@ const linkAction = () => {
 navLink.forEach(n => n.addEventListener('click', linkAction))
 
 /*=============== ADD SHADOW HEADER ===============*/
-const scrollHeader = () => {
+const shadowHeader = () => {
     const header = document.getElementById('header')
     // Add a class if the bottom offset is greater than 50 of the viewport
     this.scrollY >= 50
@@ -30,7 +30,7 @@ const scrollHeader = () => {
         : header.classList.remove('scroll-header')
 }
 
-window.addEventListener('scroll', scrollHeader)
+window.addEventListener('scroll', shadowHeader)
 
 /*=============== SWIPER REVIEWS ===============*/
 
