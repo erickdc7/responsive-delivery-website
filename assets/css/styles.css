@@ -258,6 +258,9 @@ img {
 }
 
 /* Add shadow header */
+.shadow-header {
+  box-shadow: var(--shadow-big);
+}
 
 /* Active link */
 
