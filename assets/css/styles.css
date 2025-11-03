@@ -561,6 +561,11 @@ img {
     border-radius: 2rem;
     font-size: var(--normal-font-size);
   }
+
+  .home__comment::before,
+  .home__comment::after {
+    font-size: 3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
