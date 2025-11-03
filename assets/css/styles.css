@@ -548,6 +548,10 @@ img {
     border-radius: 1rem;
     font-size: 2rem;
   }
+
+  .home__number {
+    font-size: var(--normal-font-size);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
