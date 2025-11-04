@@ -439,6 +439,11 @@ img {
   margin: 0 auto 1.5rem;
 }
 
+.service__title {
+  font-size: var(--h3-font-size);
+  margin-bottom: 0.5rem;
+}
+
 /*=============== MENU ===============*/
 
 /*=============== REVIEWS ===============*/
