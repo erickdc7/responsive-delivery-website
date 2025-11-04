@@ -430,6 +430,10 @@ img {
   row-gap: 2rem;
 }
 
+.service__card {
+  text-align: center;
+}
+
 /*=============== MENU ===============*/
 
 /*=============== REVIEWS ===============*/
