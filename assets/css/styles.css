@@ -506,6 +506,10 @@ img {
     margin-bottom: 3.5rem;
   }
 
+  .section__subtitle {
+    margin-bottom: 0.5rem;
+  }
+
   .nav {
     height: calc(var(--header-height) + 2rem);
   }
