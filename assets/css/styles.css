@@ -424,6 +424,11 @@ img {
 }
 
 /*=============== SERVICE ===============*/
+.service__container {
+  grid-template-columns: 220px;
+  justify-content: center;
+  row-gap: 2rem;
+}
 
 /*=============== MENU ===============*/
 
