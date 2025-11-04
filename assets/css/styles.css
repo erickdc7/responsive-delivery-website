@@ -601,6 +601,11 @@ img {
   .home__comment::after {
     font-size: 3rem;
   }
+
+  .service__container {
+    grid-template-columns: repeat(3, 220px);
+    column-gap: 10rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
