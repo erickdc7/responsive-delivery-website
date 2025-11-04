@@ -474,6 +474,7 @@ img {
   }
 }
 
+/* For medium devices */
 @media screen and (min-width: 540px) {
   .nav__menu {
     width: 50%;
@@ -484,8 +485,6 @@ img {
     justify-content: center;
   }
 }
-
-/* For medium devices */
 
 /* For large devices */
 @media screen and (min-width: 1150px) {
