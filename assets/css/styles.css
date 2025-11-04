@@ -434,6 +434,11 @@ img {
   text-align: center;
 }
 
+.service__img {
+  width: 150px;
+  margin: 0 auto 1.5rem;
+}
+
 /*=============== MENU ===============*/
 
 /*=============== REVIEWS ===============*/
