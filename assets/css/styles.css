@@ -525,6 +525,11 @@ img {
   .home__image {
     width: 100%;
   }
+
+  .menu__container {
+    grid-template-columns: 180px;
+    justify-content: center;
+  }
 }
 
 /* For medium devices */
