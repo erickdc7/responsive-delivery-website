@@ -445,6 +445,9 @@ img {
 }
 
 /*=============== MENU ===============*/
+.menu__container {
+  grid-template-columns: repeat(2, 1fr);
+}
 
 /*=============== REVIEWS ===============*/
 
