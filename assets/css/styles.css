@@ -460,6 +460,13 @@ img {
   transition: background-color 0.4s;
 }
 
+.menu__img {
+  width: 100px;
+  justify-self: center;
+  filter: var(--shadow-img-small);
+  transition: transform 0.4s;
+}
+
 /*=============== REVIEWS ===============*/
 
 /* Swiper class */
