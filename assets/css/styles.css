@@ -471,6 +471,10 @@ img {
   transform: translateY(-0.25rem);
 }
 
+.menu__name {
+  font-size: var(--h3-font-size);
+}
+
 /*=============== REVIEWS ===============*/
 
 /* Swiper class */
