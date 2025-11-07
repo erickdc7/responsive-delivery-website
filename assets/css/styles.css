@@ -688,6 +688,10 @@ img {
     padding: 1rem 1.5rem 2rem;
     border-radius: 2rem;
   }
+
+  .menu__img {
+    width: 160px;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
