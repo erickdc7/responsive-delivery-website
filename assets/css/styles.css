@@ -480,6 +480,11 @@ img {
   margin-block: 0.25rem 0.5rem;
 }
 
+.menu__price {
+  font-size: var(--h3-font-size);
+  color: var(--first-color);
+}
+
 /*=============== REVIEWS ===============*/
 
 /* Swiper class */
