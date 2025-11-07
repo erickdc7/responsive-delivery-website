@@ -692,6 +692,15 @@ img {
   .menu__img {
     width: 160px;
   }
+
+  .menu__name,
+  .menu__price {
+    font-size: var(--h2-font-size);
+  }
+
+  .menu__amount {
+    font-size: var(--normal-font-size);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
