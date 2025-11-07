@@ -553,6 +553,10 @@ img {
   .service__container {
     grid-template-columns: repeat(2, 220px);
   }
+
+  .menu__container {
+    grid-template-columns: repeat(3, 180px);
+  }
 }
 
 /* For large devices */
