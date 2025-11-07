@@ -700,6 +700,7 @@ img {
 
   .menu__amount {
     font-size: var(--normal-font-size);
+    margin-block: 0.5rem 1rem;
   }
 }
 
