@@ -702,6 +702,15 @@ img {
     font-size: var(--normal-font-size);
     margin-block: 0.5rem 1rem;
   }
+
+  .menu__button {
+    right: 1.5rem;
+    bottom: 2rem;
+    width: 48px;
+    height: 48px;
+    border-radius: 1rem;
+    font-size: 2rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
