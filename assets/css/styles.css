@@ -475,6 +475,11 @@ img {
   font-size: var(--h3-font-size);
 }
 
+.menu__amount {
+  font-size: var(--small-font-size);
+  margin-block: 0.25rem 0.5rem;
+}
+
 /*=============== REVIEWS ===============*/
 
 /* Swiper class */
