@@ -485,6 +485,20 @@ img {
   color: var(--first-color);
 }
 
+.menu__button {
+  position: absolute;
+  right: 1rem;
+  bottom: 1rem;
+  width: 32px;
+  height: 32px;
+  background-color: var(--first-color);
+  box-shadow: 0 4px 8px var(--shadow-first-color);
+  border-radius: 0.75rem;
+  font-size: 1.5rem;
+  color: var(--title-color);
+  cursor: pointer;
+}
+
 /*=============== REVIEWS ===============*/
 
 /* Swiper class */
