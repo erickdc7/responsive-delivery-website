@@ -542,6 +542,11 @@ img {
     grid-template-columns: 380px;
     justify-content: center;
   }
+
+  .menu__container {
+    grid-template-columns: repeat(2, 180px);
+    justify-content: center;
+  }
 }
 
 @media screen and (min-width: 768px) {
