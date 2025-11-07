@@ -449,6 +449,17 @@ img {
   grid-template-columns: repeat(2, 1fr);
 }
 
+.menu__card {
+  position: relative;
+  display: grid;
+  row-gap: 0.5rem;
+  background-color: var(--container-color);
+  box-shadow: var(--shadow-small);
+  padding: 0.5rem 1rem 1rem;
+  border-radius: 1.5rem;
+  transition: background-color 0.4s;
+}
+
 /*=============== REVIEWS ===============*/
 
 /* Swiper class */
