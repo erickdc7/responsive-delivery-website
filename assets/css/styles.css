@@ -545,6 +545,11 @@ img {
   column-gap: 0.25rem;
 }
 
+.reviews__stars i {
+  font-size: 1rem;
+  color: var(--first-color);
+}
+
 /* Swiper class */
 
 /*=============== APP ===============*/
