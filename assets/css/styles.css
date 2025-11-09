@@ -530,6 +530,11 @@ img {
   border-radius: 50%;
 }
 
+.reviews__data {
+  display: grid;
+  row-gap: 0.25rem;
+}
+
 /* Swiper class */
 
 /*=============== APP ===============*/
