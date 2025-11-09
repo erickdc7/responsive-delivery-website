@@ -550,6 +550,13 @@ img {
   color: var(--first-color);
 }
 
+.reviews__comment {
+  position: relative;
+  width: 280px;
+  justify-self: center;
+  text-align: center;
+}
+
 /* Swiper class */
 
 /*=============== APP ===============*/
