@@ -513,6 +513,11 @@ img {
   padding-bottom: 6rem;
 }
 
+.reviews__card {
+  display: grid;
+  row-gap: 1rem;
+}
+
 /* Swiper class */
 
 /*=============== APP ===============*/
