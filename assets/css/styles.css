@@ -509,7 +509,7 @@ img {
 }
 
 .reviews__swiper {
-  margin-inline: initial;
+  margin-inline: initial; /* For swiper */
   padding-bottom: 6rem;
 }
 
