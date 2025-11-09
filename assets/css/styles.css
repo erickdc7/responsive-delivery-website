@@ -504,6 +504,10 @@ img {
   row-gap: 6rem;
 }
 
+.reviews__content {
+  display: grid;
+}
+
 /* Swiper class */
 
 /*=============== APP ===============*/
