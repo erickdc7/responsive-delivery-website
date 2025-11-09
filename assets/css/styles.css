@@ -571,6 +571,13 @@ img {
   bottom: -2rem;
 }
 
+.reviews__comment::before,
+.reviews__comment::after {
+  font-size: 2.5rem;
+  font-weight: var(--font-semi-bold);
+  color: var(--first-color);
+}
+
 /* Swiper class */
 
 /*=============== APP ===============*/
