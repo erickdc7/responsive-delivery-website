@@ -500,6 +500,9 @@ img {
 }
 
 /*=============== REVIEWS ===============*/
+.reviews__container {
+  row-gap: 6rem;
+}
 
 /* Swiper class */
 
