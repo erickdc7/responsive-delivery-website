@@ -540,6 +540,11 @@ img {
   font-size: var(--h3-font-size);
 }
 
+.reviews__stars {
+  display: flex;
+  column-gap: 0.25rem;
+}
+
 /* Swiper class */
 
 /*=============== APP ===============*/
