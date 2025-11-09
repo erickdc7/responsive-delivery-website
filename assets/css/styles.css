@@ -564,6 +564,13 @@ img {
   top: -0.5rem;
 }
 
+.reviews__comment::after {
+  content: close-quote;
+  position: absolute;
+  right: -1rem;
+  bottom: -2rem;
+}
+
 /* Swiper class */
 
 /*=============== APP ===============*/
