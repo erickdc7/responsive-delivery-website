@@ -508,6 +508,11 @@ img {
   display: grid;
 }
 
+.reviews__swiper {
+  margin-inline: initial;
+  padding-bottom: 6rem;
+}
+
 /* Swiper class */
 
 /*=============== APP ===============*/
