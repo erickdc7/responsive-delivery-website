@@ -505,7 +505,7 @@ img {
 }
 
 .reviews__content {
-  display: grid;
+  display: grid; /* For swiper */
 }
 
 .reviews__swiper {
