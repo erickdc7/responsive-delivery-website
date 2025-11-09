@@ -518,6 +518,13 @@ img {
   row-gap: 1rem;
 }
 
+.reviews__profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 0.5rem;
+}
+
 /* Swiper class */
 
 /*=============== APP ===============*/
