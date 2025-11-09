@@ -578,6 +578,15 @@ img {
   color: var(--first-color);
 }
 
+.reviews__image {
+  position: relative;
+  width: 320px;
+  height: 320px;
+  background: var(--gradient-color);
+  border-radius: 6rem;
+  justify-self: center;
+}
+
 /* Swiper class */
 
 /*=============== APP ===============*/
