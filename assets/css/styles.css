@@ -525,6 +525,11 @@ img {
   column-gap: 0.5rem;
 }
 
+.reviews__photo {
+  width: 60px;
+  border-radius: 50%;
+}
+
 /* Swiper class */
 
 /*=============== APP ===============*/
