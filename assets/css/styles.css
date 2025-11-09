@@ -587,6 +587,17 @@ img {
   justify-self: center;
 }
 
+.reviews__img {
+  width: 270px;
+  position: absolute;
+  bottom: 0;
+  left: 2rem;
+  right: 0;
+  margin: 0 auto;
+  mask-image: linear-gradient(var(--first-color) 80%, transparent 95%);
+  filter: var(--shadow-img-big);
+}
+
 /* Swiper class */
 
 /*=============== APP ===============*/
