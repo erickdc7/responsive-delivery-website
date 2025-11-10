@@ -667,6 +667,10 @@ img {
   .reviews__container {
     row-gap: 4rem;
   }
+
+  .reviews__img {
+    left: 1rem;
+  }
 }
 
 /* For medium devices */
