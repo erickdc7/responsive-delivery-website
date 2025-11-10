@@ -37,7 +37,12 @@ const swiperReviews = new Swiper('.reviews__swiper', {
     loop: true,
     spaceBetween: 16,
     grabCursor: true,
-    speed: 600
+    speed: 600,
+
+    navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+    }
 })
 
 /*=============== SHOW SCROLL UP ===============*/
