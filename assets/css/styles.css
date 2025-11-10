@@ -603,6 +603,19 @@ img {
   display: none;
 }
 
+.reviews :is(.swiper-button-prev, .swiper-button-next) {
+  top: initial;
+  bottom: 1.5rem;
+  width: 40px;
+  height: 40px;
+  background-color: var(--container-color);
+  box-shadow: var(--shadow-small);
+  color: var(--title-color);
+  border-radius: 0.75rem;
+  font-size: 1.5rem;
+  transition: background-color 0.4s, box-shadow 0.4s, color 0.4s;
+}
+
 /*=============== APP ===============*/
 
 /*=============== MAP ===============*/
