@@ -540,6 +540,12 @@ img {
   font-size: var(--h3-font-size);
 }
 
+.reviews__rating {
+  display: flex;
+  align-items: center;
+  column-gap: 0.5rem;
+}
+
 .reviews__stars {
   display: flex;
   column-gap: 0.25rem;
