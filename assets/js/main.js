@@ -45,6 +45,7 @@ const swiperReviews = new Swiper('.reviews__swiper', {
     },
     autoplay: {
         delay: 3000,
+        disableOnInteraction: false,
     }
 })
 
