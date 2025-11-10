@@ -42,6 +42,9 @@ const swiperReviews = new Swiper('.reviews__swiper', {
     navigation: {
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
+    },
+    autoplay: {
+
     }
 })
 
