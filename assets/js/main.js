@@ -33,7 +33,7 @@ const shadowHeader = () => {
 window.addEventListener('scroll', shadowHeader)
 
 /*=============== SWIPER REVIEWS ===============*/
-const swiper = new Swiper('.swiper', {
+const swiperReviews = new Swiper('.', {
 
 })
 
