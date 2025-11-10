@@ -36,7 +36,8 @@ window.addEventListener('scroll', shadowHeader)
 const swiperReviews = new Swiper('.reviews__swiper', {
     loop: true,
     spaceBetween: 16,
-    grabCursor: true
+    grabCursor: true,
+    speed: 600
 })
 
 /*=============== SHOW SCROLL UP ===============*/
