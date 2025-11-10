@@ -616,6 +616,15 @@ img {
   transition: background-color 0.4s, box-shadow 0.4s, color 0.4s;
 }
 
+.reviews :is(.swiper-button-prev, .swiper-button-next):hover {
+  background-color: var(--first-color);
+  box-shadow: 0 4px 8px var(--shadow-first-color);
+}
+
+.reviews .swiper-button-prev {
+  left: calc(50% - 3rem);
+}
+
 /*=============== APP ===============*/
 
 /*=============== MAP ===============*/
