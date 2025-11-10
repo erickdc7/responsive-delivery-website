@@ -622,7 +622,11 @@ img {
 }
 
 .reviews .swiper-button-prev {
-  left: calc(50% - 3rem); 
+  left: calc(50% - 3rem);
+}
+
+.reviews .swiper-button-next {
+  right: calc(50% - 3rem);
 }
 
 /*=============== APP ===============*/
