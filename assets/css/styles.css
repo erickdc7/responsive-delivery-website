@@ -663,6 +663,10 @@ img {
     grid-template-columns: 180px;
     justify-content: center;
   }
+
+  .reviews__container {
+    row-gap: 4rem;
+  }
 }
 
 /* For medium devices */
