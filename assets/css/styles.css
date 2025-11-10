@@ -654,7 +654,8 @@ img {
     margin-inline: 1rem;
   }
 
-  .home__image {
+  .home__image,
+  .reviews__image {
     width: 100%;
   }
 
