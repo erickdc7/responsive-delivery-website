@@ -913,6 +913,11 @@ img {
   .reviews__comment::after {
     font-size: 5rem;
   }
+
+  .reviews__comment::before {
+    top: -1.5rem;
+    left: -3.5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
