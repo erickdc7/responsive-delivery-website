@@ -683,7 +683,8 @@ img {
     width: 50%;
   }
 
-  .home__container {
+  .home__container,
+  .reviews__container {
     grid-template-columns: 380px;
     justify-content: center;
   }
