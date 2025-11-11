@@ -874,6 +874,10 @@ img {
   .reviews__img {
     width: 380px;
   }
+
+  .reviews__content {
+    display: initial;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
