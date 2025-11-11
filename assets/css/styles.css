@@ -908,6 +908,11 @@ img {
     width: 450px;
     text-align: initial;
   }
+
+  .reviews__comment::before,
+  .reviews__comment::after {
+    font-size: 5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
