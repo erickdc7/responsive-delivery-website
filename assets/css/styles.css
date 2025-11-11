@@ -857,6 +857,12 @@ img {
     border-radius: 1rem;
     font-size: 2rem;
   }
+
+  .reviews__container {
+    grid-template-columns: 450px 560px;
+    column-gap: 5rem;
+    padding-block: 7rem 3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
