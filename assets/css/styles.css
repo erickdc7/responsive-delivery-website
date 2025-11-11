@@ -903,6 +903,11 @@ img {
   .reviews__data {
     row-gap: 0.5rem;
   }
+
+  .reviews__comment {
+    width: 450px;
+    text-align: initial;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
