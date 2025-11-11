@@ -886,6 +886,10 @@ img {
   .reviews__swiper {
     padding-bottom: 8rem;
   }
+
+  .reviews__card {
+    row-gap: 3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
