@@ -863,6 +863,13 @@ img {
     column-gap: 5rem;
     padding-block: 7rem 3rem;
   }
+
+  .reviews__image {
+    width: 450px;
+    height: 450px;
+    border-radius: 9rem;
+    order: -1;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
