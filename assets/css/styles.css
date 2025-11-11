@@ -878,6 +878,10 @@ img {
   .reviews__content {
     display: initial;
   }
+
+  .reviews__content :is(.section__title, .section__subtitle) {
+    text-align: initial;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
