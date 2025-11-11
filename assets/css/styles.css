@@ -927,6 +927,10 @@ img {
   .reviews .swiper-button-prev {
     left: 0.5rem;
   }
+
+  .reviews .swiper-button-next {
+    left: 4rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
