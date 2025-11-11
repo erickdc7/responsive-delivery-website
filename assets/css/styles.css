@@ -918,6 +918,11 @@ img {
     top: -1.5rem;
     left: -3.5rem;
   }
+
+  .reviews__comment::after {
+    right: -3.5rem;
+    bottom: -3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
