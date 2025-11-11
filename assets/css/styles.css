@@ -671,6 +671,10 @@ img {
   .reviews__img {
     left: 1rem;
   }
+
+  .reviews__comment {
+    width: 85%;
+  }
 }
 
 /* For medium devices */
