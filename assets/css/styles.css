@@ -923,6 +923,10 @@ img {
     right: -3.5rem;
     bottom: -3rem;
   }
+
+  .reviews .swiper-button-prev {
+    left: 0.5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
