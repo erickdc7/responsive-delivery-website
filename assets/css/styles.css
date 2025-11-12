@@ -972,6 +972,15 @@ img {
   .app {
     padding-bottom: 4rem;
   }
+
+  .app__container {
+    width: initial;
+    grid-template-columns: 420px 360px;
+    justify-content: center;
+    column-gap: 8rem;
+    padding-block: 6rem;
+    border-radius: 4rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
