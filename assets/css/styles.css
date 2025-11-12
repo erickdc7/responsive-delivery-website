@@ -986,6 +986,11 @@ img {
   .app__data :is(.section__title, .section__subtitle) {
     text-align: initial;
   }
+
+  .app__description {
+    margin-block: 0.5rem 3rem;
+    padding-right: 2rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
