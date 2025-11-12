@@ -663,6 +663,11 @@ img {
   justify-self: center;
 }
 
+.app__img {
+  border-radius: 1.5rem;
+  filter: var(--shadow-img-small);
+}
+
 /*=============== MAP ===============*/
 
 /*=============== FOOTER ===============*/
