@@ -657,6 +657,12 @@ img {
   margin-bottom: 2rem;
 }
 
+.app__image {
+  width: 260px;
+  height: 310px;
+  justify-self: center;
+}
+
 /*=============== MAP ===============*/
 
 /*=============== FOOTER ===============*/
