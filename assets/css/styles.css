@@ -991,6 +991,11 @@ img {
     margin-block: 0.5rem 3rem;
     padding-right: 2rem;
   }
+
+  .app__image {
+    width: 360px;
+    height: 330px;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
