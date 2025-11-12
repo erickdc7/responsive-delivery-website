@@ -636,6 +636,14 @@ img {
 }
 
 /*=============== APP ===============*/
+.app__container {
+  background-color: var(--first-color-light);
+  padding: 3rem 1.5rem 0;
+  border-radius: 2rem;
+  row-gap: 3rem;
+  overflow: hidden;
+  transition: background-color 0.4s;
+}
 
 /*=============== MAP ===============*/
 
