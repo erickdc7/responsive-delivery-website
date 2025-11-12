@@ -653,6 +653,10 @@ img {
   text-align: center;
 }
 
+.app__description {
+  margin-bottom: 2rem;
+}
+
 /*=============== MAP ===============*/
 
 /*=============== FOOTER ===============*/
