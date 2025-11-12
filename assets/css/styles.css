@@ -725,6 +725,11 @@ img {
     grid-template-columns: repeat(2, 180px);
     justify-content: center;
   }
+
+  .app__container {
+    width: 380px;
+    margin-inline: auto;
+  }
 }
 
 @media screen and (min-width: 768px) {
