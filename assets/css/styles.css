@@ -686,7 +686,8 @@ img {
   }
 
   .home__image,
-  .reviews__image {
+  .reviews__image,
+  .app__image {
     width: 100%;
   }
 
