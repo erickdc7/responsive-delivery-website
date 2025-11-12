@@ -981,6 +981,11 @@ img {
     padding-block: 6rem;
     border-radius: 4rem;
   }
+
+  .app__data,
+  .app__data :is(.section__title, .section__subtitle) {
+    text-align: initial;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
