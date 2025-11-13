@@ -708,6 +708,10 @@ img {
   color: var(--first-color);
 }
 
+.map__info {
+  font-style: initial;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
