@@ -702,6 +702,12 @@ img {
   font-size: var(--h3-font-size);
 }
 
+.map__title i {
+  font-size: 1.5rem;
+  font-weight: initial;
+  color: var(--first-color);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
