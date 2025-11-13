@@ -694,6 +694,14 @@ img {
   row-gap: 1rem;
 }
 
+.map__title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 0.5rem;
+  font-size: var(--h3-font-size);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
