@@ -688,6 +688,12 @@ img {
   row-gap: 2rem;
 }
 
+.map__card {
+  text-align: center;
+  display: grid;
+  row-gap: 1rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
