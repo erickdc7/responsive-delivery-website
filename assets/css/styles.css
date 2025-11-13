@@ -674,6 +674,16 @@ img {
   padding-bottom: 3rem;
 }
 
+.map__area {
+  position: relative;
+  width: 320px;
+  height: 320px;
+  overflow: hidden;
+  border-radius: 6rem;
+  box-shadow: var(--shadow-small);
+  justify-self: center;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
