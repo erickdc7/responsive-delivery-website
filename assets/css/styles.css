@@ -1062,6 +1062,14 @@ img {
   .app__img {
     border-radius: 2rem;
   }
+
+  .map__container {
+    grid-template-columns: 450px 400px;
+    justify-content: center;
+    align-items: center;
+    column-gap: 6.5rem;
+    padding-bottom: 5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
