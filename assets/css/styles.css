@@ -727,6 +727,10 @@ img {
   transition: transform 0.4s;
 }
 
+.map__area:hover .map__img {
+  transform: translateX(-100%);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
