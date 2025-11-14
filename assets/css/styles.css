@@ -1076,6 +1076,11 @@ img {
     height: 450px;
     border-radius: 9rem;
   }
+
+  .map__content {
+    grid-template-columns: repeat(2, max-content);
+    gap: 4rem 5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
