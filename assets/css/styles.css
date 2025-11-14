@@ -1070,6 +1070,12 @@ img {
     column-gap: 6.5rem;
     padding-bottom: 5rem;
   }
+
+  .map__area {
+    width: 450px;
+    height: 450px;
+    border-radius: 9rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
