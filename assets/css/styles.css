@@ -748,7 +748,8 @@ img {
 
   .home__image,
   .reviews__image,
-  .app__image {
+  .app__image,
+  .map__area {
     width: 100%;
   }
 
