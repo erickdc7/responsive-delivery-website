@@ -784,9 +784,14 @@ img {
   transition: background-color 0.4s, box-shadow 0.4s, color 0.4s;
 }
 
-.footer__social-link:hover{
+.footer__social-link:hover {
   background-color: var(--first-color);
   box-shadow: 0 4px 8px var(--shadow-first-color);
+}
+
+.footer__content {
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3rem;
 }
 
 /*=============== SCROLL BAR ===============*/
