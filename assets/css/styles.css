@@ -794,6 +794,10 @@ img {
   gap: 3rem;
 }
 
+.footer__newsletter {
+  grid-column: 1 / 3;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
