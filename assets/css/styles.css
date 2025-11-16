@@ -762,6 +762,10 @@ img {
   color: var(--first-color);
 }
 
+.footer__description {
+  margin-bottom: 2rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
