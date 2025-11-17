@@ -847,6 +847,10 @@ img {
   transition: background-color 0.4s, color 0.4s;
 }
 
+.footer__button:hover {
+  background-color: var(--first-color-alt);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
