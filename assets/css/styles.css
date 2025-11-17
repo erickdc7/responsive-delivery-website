@@ -835,6 +835,18 @@ img {
   padding-left: 0.75rem;
 }
 
+.footer__button {
+  width: 48px;
+  height: 48px;
+  background-color: var(--first-color);
+  box-shadow: 0 4px 8px var(--shadow-first-color);
+  border-radius: 0.75rem;
+  font-size: 1.5rem;
+  color: var(--white-color);
+  cursor: pointer;
+  transition: background-color 0.4s, color 0.4s;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
