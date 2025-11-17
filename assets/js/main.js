@@ -51,6 +51,7 @@ const swiperReviews = new Swiper('.reviews__swiper', {
 
 /*=============== SHOW SCROLL UP ===============*/
 const scrollUp = () => {
+    const scrollUp = document.getElementById('scroll-up')
     
 }
 window.addEventListener('scroll', scrollUp)
