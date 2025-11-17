@@ -851,6 +851,14 @@ img {
   background-color: var(--first-color-alt);
 }
 
+.footer__copy {
+  display: block;
+  margin-top: 5rem;
+  text-align: center;
+  color: var(--text-color-light);
+  font-size: var(--small-font-size);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
