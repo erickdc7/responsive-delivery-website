@@ -922,6 +922,10 @@ img {
     width: 380px;
     margin-inline: auto;
   }
+
+  .footer__form {
+    width: 360px;
+  }
 }
 
 @media screen and (min-width: 768px) {
