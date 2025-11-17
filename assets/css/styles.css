@@ -828,6 +828,13 @@ img {
   transition: background-color 0.4s, color 0.4s;
 }
 
+.footer__input {
+  width: 100%;
+  background: transparent;
+  color: var(--title-color);
+  padding-left: 0.75rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
