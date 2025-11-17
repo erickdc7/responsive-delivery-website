@@ -1236,6 +1236,10 @@ img {
   .footer__content {
     column-gap: 5rem;
   }
+
+  .footer__form {
+    width: 330px;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
