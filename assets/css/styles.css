@@ -940,6 +940,10 @@ img {
   .footer__content {
     grid-template-columns: repeat(3, max-content);
   }
+
+  .footer__newsletter {
+    grid-column: initial;
+  }
 }
 
 /* For large devices */
