@@ -1223,6 +1223,10 @@ img {
     grid-template-columns: repeat(2, max-content);
     gap: 4rem 5rem;
   }
+
+  .footer {
+    padding-block: 6rem 3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
