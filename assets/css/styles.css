@@ -936,6 +936,10 @@ img {
   .menu__container {
     grid-template-columns: repeat(3, 180px);
   }
+
+  .footer__content {
+    grid-template-columns: repeat(3, max-content);
+  }
 }
 
 /* For large devices */
