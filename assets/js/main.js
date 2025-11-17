@@ -50,7 +50,10 @@ const swiperReviews = new Swiper('.reviews__swiper', {
 })
 
 /*=============== SHOW SCROLL UP ===============*/
-
+const scrollUp = () => {
+    
+}
+window.addEventListener('scroll', scrollUp)
 
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
 
