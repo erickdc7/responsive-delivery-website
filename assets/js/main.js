@@ -123,3 +123,5 @@ sr.reveal(`.home__image`, { delay: 900 })
 sr.reveal(`.home__phone`, { origin: 'left', delay: 1500 })
 sr.reveal(`.home__comment`, { origin: 'right', delay: 1800 })
 sr.reveal(`.home__social`, { origin: 'bottom', delay: 2100 })
+
+sr.reveal(`.service__card, .service__title, .service__description`, { interval: 100 })
