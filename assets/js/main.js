@@ -135,3 +135,4 @@ sr.reveal(`.app .section__subtitle, .app .section__title, .app__description, .ap
 sr.reveal(`.app__image`, { origin: 'bottom', delay: 900 })
 
 sr.reveal(`.map__area`, { origin: 'right' })
+sr.reveal(`.map__card`, { origin: 'left', delay: 600 })
