@@ -117,3 +117,5 @@ const sr = ScrollReveal({
     duration: 2000,
     reset: true, // Animation repeat
 })
+
+sr.reveal(`.home__title, .home__description, .home__data .button`, { interval: 100 })
