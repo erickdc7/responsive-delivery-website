@@ -150,6 +150,10 @@ img {
   background-color: var(--container-color);
 }
 
+.dark-theme :is(.footer__social-link, .footer__form) {
+  background-color: var(--body-color);
+}
+
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
   max-width: 1120px;
