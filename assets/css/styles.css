@@ -146,6 +146,10 @@ img {
   color: var(--dark-color);
 }
 
+.dark-theme .footer {
+  background-color: var(--container-color);
+}
+
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
   max-width: 1120px;
