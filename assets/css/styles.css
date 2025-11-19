@@ -158,6 +158,10 @@ img {
   background-color: hsl(45, 8%, 12%);
 }
 
+.dark-theme::-webkit-scrollbar-thumb {
+  background-color: hsl(45, 8%, 20%);
+}
+
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
   max-width: 1120px;
