@@ -131,5 +131,5 @@ sr.reveal(`.menu__card`, { interval: 100 })
 sr.reveal(`.reviews__content`, { origin: 'right' })
 sr.reveal(`.reviews__image`, { origin: 'left', delay: 600 })
 
-sr.reveal(`.app .section__subtitle, .app .section__title, .app__description, .app__button`, { interval: 100 })
+sr.reveal(`.app .section__subtitle, .app .section__title, .app__description, .app .button`, { interval: 100 })
 sr.reveal(`.app__image`, { origin: 'bottom', delay: 900 })
