@@ -136,3 +136,5 @@ sr.reveal(`.app__image`, { origin: 'bottom', delay: 900 })
 
 sr.reveal(`.map__area`, { origin: 'right' })
 sr.reveal(`.map__card`, { origin: 'left', delay: 600 })
+
+sr.reveal(`.footer__data, .footer__content div`, { interval: 100 })
