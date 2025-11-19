@@ -154,6 +154,10 @@ img {
   background-color: var(--body-color);
 }
 
+.dark-theme::-webkit-scrollbar {
+  background-color: hsl(45, 8%, 12%);
+}
+
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
   max-width: 1120px;
