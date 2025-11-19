@@ -127,3 +127,5 @@ sr.reveal(`.home__social`, { origin: 'bottom', delay: 2100 })
 sr.reveal(`.service__card, .service__title, .service__description`, { interval: 100 })
 
 sr.reveal(`.menu__card`, { interval: 100 })
+
+sr.reveal(`.reviews__content`, { origin: 'right' })
