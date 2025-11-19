@@ -133,6 +133,18 @@ img {
 	Color changes in some parts of 
 	the website, in dark theme
 ==========*/
+.dark-theme
+  :is(
+    .button,
+    .home__link:hover,
+    .menu__button,
+    .swiper-button-prev:hover,
+    .swiper-button-next:hover,
+    .footer__social-link:hover,
+    .footer__button:hover
+  ) {
+  color: var(--dark-color);
+}
 
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
