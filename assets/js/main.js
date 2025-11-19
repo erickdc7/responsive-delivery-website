@@ -121,3 +121,4 @@ const sr = ScrollReveal({
 sr.reveal(`.home__title, .home__description, .home__data .button`, { interval: 100 })
 sr.reveal(`.home__image`, { delay: 900 })
 sr.reveal(`.home__phone`, { origin: 'left', delay: 900 })
+sr.reveal(`.home__comment`, { origin: 'right', delay: 900 })
